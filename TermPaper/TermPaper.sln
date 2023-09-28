@@ -9,11 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralTermPaperTest", "Ter
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkerUnitTest", "WorkerUnitTest\WorkerUnitTest.csproj", "{03B5B2B2-981A-426F-B984-59AEB58D1965}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdministratorUnitTest", "AdministratorUnitTest\AdministratorUnitTest.csproj", "{6B2EFEDB-F3AE-4818-95DD-43DB36B51048}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdministratorUnitTest", "AdministratorUnitTest\AdministratorUnitTest.csproj", "{6B2EFEDB-F3AE-4818-95DD-43DB36B51048}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerUnitTest", "CustomerUnitTest\CustomerUnitTest.csproj", "{05AEFB3E-5D3A-48F4-942D-2BEAEE7871DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerUnitTest", "CustomerUnitTest\CustomerUnitTest.csproj", "{05AEFB3E-5D3A-48F4-942D-2BEAEE7871DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasStationUnitTest", "GasStationUnitTest\GasStationUnitTest.csproj", "{8CE6FB1E-5C5C-42E6-BB9B-F723F58B79B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GasStationUnitTest", "GasStationUnitTest\GasStationUnitTest.csproj", "{8CE6FB1E-5C5C-42E6-BB9B-F723F58B79B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

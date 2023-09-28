@@ -18,7 +18,6 @@ C:\Users\timov\Downloads\Labs_0\termPaper2Term\TermPaper\TermPaper\TermPaper\bin
 C:\Users\timov\Downloads\Labs_0\termPaper2Term\TermPaper\TermPaper\TermPaper\bin\Debug\net7.0\TermPaper.runtimeconfig.json
 C:\Users\timov\Downloads\Labs_0\termPaper2Term\TermPaper\TermPaper\TermPaper\bin\Debug\net7.0\TermPaper.dll
 C:\Users\timov\Downloads\Labs_0\termPaper2Term\TermPaper\TermPaper\TermPaper\bin\Debug\net7.0\TermPaper.pdb
-C:\Users\timov\Downloads\Labs_0\termPaper2Term\TermPaper\TermPaper\TermPaper\obj\Debug\net7.0\TermPaper.csproj.AssemblyReference.cache
 C:\Users\timov\Downloads\Labs_0\termPaper2Term\TermPaper\TermPaper\TermPaper\obj\Debug\net7.0\TermPaper.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\timov\Downloads\Labs_0\termPaper2Term\TermPaper\TermPaper\TermPaper\obj\Debug\net7.0\TermPaper.AssemblyInfoInputs.cache
 C:\Users\timov\Downloads\Labs_0\termPaper2Term\TermPaper\TermPaper\TermPaper\obj\Debug\net7.0\TermPaper.AssemblyInfo.cs
